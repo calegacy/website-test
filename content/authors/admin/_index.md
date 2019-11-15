@@ -5,7 +5,7 @@ avatar_image: LegacyC-2019.png
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 btn:
-- label: Download Resume
+- label: Download CV
   url: https://sourcethemes.com/academic/docs/install/
 education:
   courses:
@@ -32,9 +32,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/chelseylegacy
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Chelsey_Legacy
 - icon: github
   icon_pack: fab
   link: https://github.com/calegacy 
@@ -44,8 +44,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a third year graduate student studying Statistics Education at the Univeristy of Minnesota in the Department of Educational Psychology. After completing my bachelors degree in Mathematics at St. Lawrence University, I continued on to get my Masters in Statistics from Iowa State University. During my time at ISU I developed a passion for teaching and decided to pursue a Ph.d. in Statistics Education. 
 
-![reviews](../../img/certifacates.jpg)
-
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
