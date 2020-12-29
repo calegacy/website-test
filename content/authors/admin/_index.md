@@ -23,7 +23,7 @@ name: Chelsey A. Legacy
 organizations:
 - name: University of Minnesota
   url: ""
-role: Ph.D. Candidate
+role: PhD Candidate
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,6 +42,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
 I am a fourth year graduate student studying Statistics Education at the Univeristy of Minnesota in the Department of Educational Psychology. After completing a bachelors degree in Mathematics at St. Lawrence University, I continued on to get a Masters in Statistics from Iowa State University. During my time at ISU I developed a passion for teaching and decided to pursue a Ph.d. in Statistics Education. 
 
