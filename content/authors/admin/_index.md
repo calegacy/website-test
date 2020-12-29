@@ -2,15 +2,15 @@
 authors:
 - admin
 avatar_image: LegacyC-2019.png
-bio: 
- btn:
-- label: Download CV
+bio: This is my bio
+# btn:
+#- label: Download CV
 #  url: https://sourcethemes.com/academic/docs/install/
 education:
   courses:
   - course: PhD Candidate, Educational Psychology
     institution: University of Minnesota
-    year: 
+    year: 2022
   - course: MS Statistics
     institution: Iowa State University
     year: 2017
