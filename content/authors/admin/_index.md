@@ -2,7 +2,7 @@
 authors:
 - admin
 avatar_image: LegacyC-2019.png
-bio: My research interests include teaching statistics and data science.
+bio: 
  btn:
 - label: Download CV
 #  url: https://sourcethemes.com/academic/docs/install/
