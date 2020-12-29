@@ -25,19 +25,19 @@ organizations:
   url: ""
 role: PhD Candidate
 
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/chelseylegacy
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Chelsey_Legacy
-- icon: github
-  icon_pack: fab
-  link: https://github.com/calegacy 
+# social:
+# - icon: envelope
+#   icon_pack: fas
+#   link: '#contact'
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/chelseylegacy
+# - icon: researchgate
+#   icon_pack: fab
+#   link: https://www.researchgate.net/profile/Chelsey_Legacy
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/calegacy 
 superuser: true
 user_groups:
 - Researchers
