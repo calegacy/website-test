@@ -20,7 +20,7 @@ education:
     year: 2008
 email: "legac006@umn.edu"
 
-name: Chelsey A. Legacy
+name: Chelsey Ann Legacy
 organizations:
 - name: University of Minnesota
   url: ""
