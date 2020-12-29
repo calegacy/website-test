@@ -23,8 +23,7 @@ name: Chelsey A. Legacy
 organizations:
 - name: University of Minnesota
   url: ""
-role: PhD Candidate
-
+role: Graduate Student
 social:
 - icon: envelope
   icon_pack: fas
