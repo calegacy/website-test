@@ -3,8 +3,8 @@ authors:
 - admin
 avatar_image: LegacyC-2019.png
 bio: My research interests include teaching statistics and data science.
-# btn:
-#- label: Download CV
+ btn:
+- label: Download CV
 #  url: https://sourcethemes.com/academic/docs/install/
 education:
   courses:
@@ -42,6 +42,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
 I am a fourth year graduate student studying Statistics Education in the Department of Educational Psychology at the Univeristy of Minnesota. After completing a bachelors degree in Mathematics at St. Lawrence University, I continued my academic journey to get a Masters in Statistics from Iowa State University. During my time at ISU I developed a passion for teaching and decided to pursue a Ph.d. in Statistics Education. 
 
