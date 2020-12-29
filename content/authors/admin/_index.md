@@ -24,6 +24,7 @@ organizations:
 - name: University of Minnesota
   url: ""
 role: PhD Candidate
+
 social:
 - icon: envelope
   icon_pack: fas
