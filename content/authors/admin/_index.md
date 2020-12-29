@@ -10,7 +10,7 @@ education:
   courses:
   - course: PhD Candidate, Educational Psychology
     institution: University of Minnesota
-    year: Present
+    year: 
   - course: MS Statistics
     institution: Iowa State University
     year: 2017
@@ -27,7 +27,7 @@ role: Graduate Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: "legac006@umn.edu""
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/chelseylegacy
@@ -42,5 +42,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
+
 I am a fourth year graduate student studying Statistics Education in the Department of Educational Psychology at the Univeristy of Minnesota. After completing a bachelors degree in Mathematics at St. Lawrence University, I continued my academic journey to get a Masters in Statistics from Iowa State University. During my time at ISU I developed a passion for teaching and decided to pursue a Ph.d. in Statistics Education. 
 
