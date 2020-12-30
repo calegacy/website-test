@@ -2,7 +2,7 @@
 authors:
 - admin
 avatar_image: LegacyC-2019.png
-bio: This is my bio
+#bio: This is my bio
 # btn:
 #- label: Download CV
 #  url: https://sourcethemes.com/academic/docs/install/
@@ -40,5 +40,5 @@ bio: This is my bio
 ---
 
 
-I am a fourth year graduate student studying Statistics Education in the Department of Educational Psychology at the Univeristy of Minnesota. After completing a bachelors degree in Mathematics at St. Lawrence University, I continued my academic journey to get a Masters in Statistics from Iowa State University. During my time at ISU I developed a passion for teaching and decided to pursue a Ph.d. in Statistics Education. 
+# I am a fourth year graduate student studying Statistics Education in the Department of Educational Psychology at the Univeristy of Minnesota. After completing a bachelors degree in Mathematics at St. Lawrence University, I continued my academic journey to get a Masters in Statistics from Iowa State University. During my time at ISU I developed a passion for teaching and decided to pursue a Ph.d. in Statistics Education. 
 
