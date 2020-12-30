@@ -2,67 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chelsey A. Legacy | Website</title>
-    <link>/</link>
+    <link>https://chelseylegacy.netlify.com/</link>
     <description>Recent content on Chelsey A. Legacy | Website</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://chelseylegacy.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
+      <link>https://chelseylegacy.netlify.com/talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>/talk/</guid>
+      <guid>https://chelseylegacy.netlify.com/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://chelseylegacy.netlify.com/publication/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/</guid>
+      <guid>https://chelseylegacy.netlify.com/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://chelseylegacy.netlify.com/post/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/</guid>
+      <guid>https://chelseylegacy.netlify.com/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>/slides/</link>
+      <link>https://chelseylegacy.netlify.com/slides/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/slides/</guid>
+      <guid>https://chelseylegacy.netlify.com/slides/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://chelseylegacy.netlify.com/project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/</guid>
+      <guid>https://chelseylegacy.netlify.com/project/</guid>
       <description></description>
     </item>
     
@@ -77,10 +67,10 @@
     
     <item>
       <title>Courses</title>
-      <link>/courses/</link>
+      <link>https://chelseylegacy.netlify.com/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/courses/</guid>
+      <guid>https://chelseylegacy.netlify.com/courses/</guid>
       <description></description>
     </item>
     

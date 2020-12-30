@@ -1,6 +1,5 @@
 ---
-authors:
-- admin
+authors: admin
 avatar_image: LegacyC-2019-edit.png
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
@@ -18,12 +17,11 @@ education:
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
-email: "legac006@umn.edu"
-
+email: legac006@umn.edu
 name: Chelsey Ann Legacy
 organizations:
 - name: University of Minnesota
-  url: ""
+  url: ''
 role: Graduate Student
 social:
 - icon: twitter
@@ -34,8 +32,8 @@ social:
   link: https://www.researchgate.net/profile/Chelsey_Legacy
 - icon: github
   icon_pack: fab
-  link: https://github.com/calegacy 
-superuser: true
+  link: https://github.com/calegacy
+superuser: yes
 user_groups:
 - Researchers
 - Visitors
