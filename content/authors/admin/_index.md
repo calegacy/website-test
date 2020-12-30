@@ -1,9 +1,7 @@
 ---
 authors:
 - admin
-avatar_image: LegacyC-2019.png
-fig_width: 6 
-fig_height: 4 
+avatar_image: LegacyC-2019-edit.png
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 btn:
