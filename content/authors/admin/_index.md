@@ -23,20 +23,20 @@ bio: This is my bio
 # - name: University of Minnesota
 #   url: ""
 # role: Graduate Student
-social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/chelseylegacy
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Chelsey_Legacy
-- icon: github
-  icon_pack: fab
-  link: https://github.com/calegacy
-superuser: true
-user_groups:
-- Researchers
-- Visitors
+# social:
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/chelseylegacy
+# - icon: researchgate
+#   icon_pack: fab
+#   link: https://www.researchgate.net/profile/Chelsey_Legacy
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/calegacy
+# superuser: true
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
 
