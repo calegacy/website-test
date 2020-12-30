@@ -6,24 +6,24 @@ bio: This is my bio
 # btn:
 #- label: Download CV
 #  url: https://sourcethemes.com/academic/docs/install/
-education:
-  courses:
-  - course: PhD Candidate, Educational Psychology
-    institution: University of Minnesota
-    year: 2022
-  - course: MS Statistics
-    institution: Iowa State University
-    year: 2017
-  - course: BS in Mathematics
-    institution: Saint Lawrence University
-    year: 2014
-email: "legac006@umn.edu"
-
-name: Chelsey A. Legacy
-organizations:
-- name: University of Minnesota
-  url: ""
-role: Graduate Student
+# education:
+#   courses:
+#   - course: PhD Candidate, Educational Psychology
+#     institution: University of Minnesota
+#     year: 2022
+#   - course: MS Statistics
+#     institution: Iowa State University
+#     year: 2017
+#   - course: BS in Mathematics
+#     institution: Saint Lawrence University
+#     year: 2014
+# email: "legac006@umn.edu"
+# 
+# name: Chelsey A. Legacy
+# organizations:
+# - name: University of Minnesota
+#   url: ""
+# role: Graduate Student
 social:
 - icon: envelope
   icon_pack: fas
