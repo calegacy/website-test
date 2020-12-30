@@ -18,16 +18,12 @@ bio: This is my bio
 #     institution: Saint Lawrence University
 #     year: 2014
 # email: "legac006@umn.edu"
-# 
 # name: Chelsey A. Legacy
 # organizations:
 # - name: University of Minnesota
 #   url: ""
 # role: Graduate Student
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "legac006@umn.edu"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/chelseylegacy
